@@ -2,7 +2,7 @@ Hey there, I'm Andrea!
 
 Welcome to my corner of the digital universe. 🌌 I'm on an exciting journey, currently diving deep into the world of data analytics while pursuing a Higher Diploma in Science & Computing. 📊✨ 
 
-## Here's a glimpse into some of the exciting projects I've been working on:
+Here's a glipmse into some of the exciting projets I've been working on:
 
 1. **Pands-project: IRIS DATASET ANALYSIS**
 In my Iris dataset project, I dived deep into data analysis and classification. I meticulously processed the dataset, using statistical methods and machine learning algorithms. This project demonstrates my proficiency in data handling, feature extraction, and model implementation, highlighting my analytical skills in the realm of data science.
@@ -12,18 +12,11 @@ Within my Palmer Penguins dataset project, I focused on exploratory data analysi
 
 3. **PfDA_Project1: VINYL PRICE GUIDE SELF GENERATED DATASET**
 In the analysis of my Vinyl Price Guide dataset, my primary focus was deciphering pricing trends and factors influencing the vinyl market. Employing statistical analyses and machine learning algorithms, I unveiled valuable insights into pricing dynamics and market fluctuations. This project attests to my proficiency in data-driven decision-making, showcasing skills in data interpretation, trend identification, and predictive modeling.
+Pandas Problem Sheet Repository
 
-4. **Pandas Problem Sheet Repository**
-Explore a collection of Python programs showcasing diverse functionalities:
+4. **Pands Problem Sheet Repository**
 
-Helloworld.py: A simple script that greets the world with a classic "Hello World!"
-Bank.py: Dive into the world of finance as Bank.py sums up two amounts in cents and converts them into Euros.
-Accounts.py: Experience privacy in action with Accounts.py, a program that returns a masked account number, revealing only the last 4 digits.
-Collatz.py: Engage with the intriguing Collatz sequence as this script performs the calculation until it reaches the final 4-1-0 loop.
-Weekday.py: Wondering if it's time for the weekend? Weekday.py has you covered by determining whether today is a weekday or weekend.
-Es.py: Explore literature programmatically! Es.py opens "Anne Of Green Gables," counts the occurrences of the letter 'e,' and presents the results.
-Plot.py: Visualize data with Plot.py, generating a histogram of a normal distribution with a mean of 5 and a standard deviation of 2 from 1000 values.
-Each script provides a unique perspective on Python programming and problem-solving. Feel free to check them out! 🌟
+*Helloworld.py*: A classic "Hello World!" script; *Bank.py*: Convert two amounts in cents into Euros; *Accounts.py*: Masked account number generator, revealing only the last 4 digits; *Collatz.py*: Explore the intriguing Collatz sequence; *Weekday.py*: Determine if today is a weekday or weekend; *Es.py*: Programmatic exploration of "Anne Of Green Gables," counting occurrences of the letter 'e;' *Plot.py*: Visualize a normal distribution with a mean of 5 and a standard deviation of 2 from 1000 values. Each script offers a unique perspective on Python programming. Check them out! 🌟
 
 ## 🌱 What I'm up to:
 
