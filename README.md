@@ -12,10 +12,8 @@ Within my Palmer Penguins dataset project, I focused on exploratory data analysi
 
 3. **PfDA_Project1: VINYL PRICE GUIDE SELF GENERATED DATASET**
 In the analysis of my Vinyl Price Guide dataset, my primary focus was deciphering pricing trends and factors influencing the vinyl market. Employing statistical analyses and machine learning algorithms, I unveiled valuable insights into pricing dynamics and market fluctuations. This project attests to my proficiency in data-driven decision-making, showcasing skills in data interpretation, trend identification, and predictive modeling.
-Pandas Problem Sheet Repository
 
 4. **Pands Problem Sheet Repository**
-
 *Helloworld.py*: A classic "Hello World!" script; *Bank.py*: Convert two amounts in cents into Euros; *Accounts.py*: Masked account number generator, revealing only the last 4 digits; *Collatz.py*: Explore the intriguing Collatz sequence; *Weekday.py*: Determine if today is a weekday or weekend; *Es.py*: Programmatic exploration of "Anne Of Green Gables," counting occurrences of the letter 'e;' *Plot.py*: Visualize a normal distribution with a mean of 5 and a standard deviation of 2 from 1000 values. Each script offers a unique perspective on Python programming. Check them out! 🌟
 
 ## 🌱 What I'm up to:
