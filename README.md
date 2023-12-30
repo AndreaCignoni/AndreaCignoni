@@ -1,6 +1,6 @@
 Hey there, I'm Andrea!
 
-Welcome to my corner of the digital universe. 🌌 I'm on an exciting journey, currently diving deep into the world of data analytics while pursuing a Higher Diploma in Science & Computing. 📊✨ 
+Welcome to my corner of the digital universe. 🌌 I'm on an exciting journey, currently diving deep into the world of data analytics while pursuing a Higher Diploma in Computing in Data Analysis.📊✨ 
 
 Here's a glipmse into some of the exciting projets I've been working on:
 
