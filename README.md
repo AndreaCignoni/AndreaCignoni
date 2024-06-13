@@ -7,7 +7,7 @@ Here's a glipmse into some of the exciting projets I've been working on:
 1. **[PfDA_Project1: VINYL PRICE GUIDE SELF GENERATED DATASET](https://github.com/AndreaCignoni/PfDA_Project_1.git)**
 In the analysis of my Vinyl Price Guide dataset, my primary focus was deciphering pricing trends and factors influencing the vinyl market. Employing statistical analyses and machine learning algorithms, I unveiled valuable insights into pricing dynamics and market fluctuations. This project attests to my proficiency in data-driven decision-making, showcasing skills in data interpretation, trend identification, and predictive modeling.
 
-2. **[Restful_API_Project; VinyRecordCollectorAPI](https://github.com/AndreaCignoni/Restful_API_Project.git)**
+2. **[Restful_API_Project: VinyRecordCollectorAPI](https://github.com/AndreaCignoni/Restful_API_Project.git)**
 This project implements a RESTful API for vinyl record collectors, integrating with databases using Postgres and MySQL. Each endpoint is rendered with HTML files containing embedded JavaScript code, providing functionalities for user management, record storage, and interaction with other collectors. The API facilitates CRUD operations on user records, demonstrating proficiency in web development and API design with the ambition of creating a centralized platform for all collectors to organize their inventory, share/receive offers through a user-friendly interface and robust functionalities.
 
 3. **[PfDA_Project2: An Analysis of Paleo-present Climate Data](https://github.com/AndreaCignoni/PfDA_Project-2.git)**
